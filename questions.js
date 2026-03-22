@@ -2112,5 +2112,4 @@ const QUESTIONS = [
     explanation: "Febrile neutropenia (fever + ANC <500/mm3) is a medical emergency with high mortality risk. The priority is to obtain blood cultures (before antibiotics if possible) and administer IV broad-spectrum antibiotics within 1 hour. Every hour of delay increases mortality."
   }
 
-
-];
+  ];
